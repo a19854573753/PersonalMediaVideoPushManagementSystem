@@ -4,7 +4,7 @@
 
 # 248.PersonalMediaVideoPushManagementSystem
 
-<p>V：bisebao888888(sql文件)</p>
+<p>V：bishebao888888(sql文件)</p>
 <p>抠: 206157502(sql文件)</p>
 
 <p><h1 align="center">248.自媒体视频推送管理系统</h1></p>
